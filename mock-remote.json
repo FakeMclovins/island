@@ -1,0 +1,592 @@
+{
+  "version": 1,
+  "updated": "2026-05-24T16:27:31.898Z",
+  "profile": {
+    "name": "Jón Jónsson",
+    "kennitala": "121204-3270",
+    "nationalIdDigits": "1212043270",
+    "address": "Downtown 3, 101, Reykjavík",
+    "email": "johnnyboy@gmail.com",
+    "phone": "+354 581 2345",
+    "facePicUrl": "https://i.imgur.com/eDG4gH8.png",
+    "bankInfo": "0301-26-459540"
+  },
+  "inboxDocuments": [
+    {
+      "id": "mock-inbox-6903-37",
+      "subject": "Kosningar – tilkynning til kjósenda",
+      "publicationDate": "2026-06-01T01:43:00.000Z",
+      "documentDate": "2026-06-01T01:43:00.000Z",
+      "sender": {
+        "id": "i5go5A4ikV8muPfvr9o2v",
+        "name": "Þjóðskrá Íslands"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-36",
+      "subject": "Staðfesting skráningar í atvinnuleit",
+      "publicationDate": "2026-05-29T03:47:00.000Z",
+      "documentDate": "2026-05-29T03:47:00.000Z",
+      "sender": {
+        "id": "mock-vinnumala",
+        "name": "Vinnumálastofnun"
+      },
+      "opened": true,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-35",
+      "subject": "Skráning í þjóðskrá – staðfesting",
+      "publicationDate": "2026-02-11T03:11:00.000Z",
+      "documentDate": "2026-02-11T03:11:00.000Z",
+      "sender": {
+        "id": "i5go5A4ikV8muPfvr9o2v",
+        "name": "Þjóðskrá Íslands"
+      },
+      "opened": true,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-33",
+      "subject": "Greiðsluseðill – staðgreiðsla 2026",
+      "publicationDate": "2026-01-25T16:53:00.000Z",
+      "documentDate": "2026-01-25T16:53:00.000Z",
+      "sender": {
+        "id": "mock-rikissjodur",
+        "name": "Ríkissjóður Íslands"
+      },
+      "opened": true,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-34",
+      "subject": "Staðfesting á greiðslu námsláns",
+      "publicationDate": "2026-01-22T19:17:00.000Z",
+      "documentDate": "2026-01-22T19:17:00.000Z",
+      "sender": {
+        "id": "mock-menntasjodur",
+        "name": "Menntasjóður námsmanna"
+      },
+      "opened": true,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-32",
+      "subject": "H9 - Uppfærð tekjuáætlun og endurreikningur",
+      "publicationDate": "2025-12-13T16:34:00.000Z",
+      "documentDate": "2025-12-13T16:34:00.000Z",
+      "sender": {
+        "id": "53jrbgxPKpbNtordSfEZUK",
+        "name": "Húsnæðis- og mannvirkjastofnun"
+      },
+      "opened": true,
+      "bookmarked": true,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-31",
+      "subject": "Tilkynning vegna álagningar 2025",
+      "publicationDate": "2025-11-20T04:13:00.000Z",
+      "documentDate": "2025-11-20T04:13:00.000Z",
+      "sender": {
+        "id": "4yJlHgCMTqpgRSj4p6LuBQ",
+        "name": "Skatturinn"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-30",
+      "subject": "Greiðslukvittun - Greiðslukerfi Ísland.is",
+      "publicationDate": "2025-08-30T14:12:00.000Z",
+      "documentDate": "2025-08-30T14:12:00.000Z",
+      "sender": {
+        "id": "mock-greidslugatt",
+        "name": "Greiðslugátt"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-29",
+      "subject": "Greiðslukvittun",
+      "publicationDate": "2025-07-20T02:51:00.000Z",
+      "documentDate": "2025-07-20T02:51:00.000Z",
+      "sender": {
+        "id": "6AoSHJJRDHQFfLiwBZvZi2",
+        "name": "Fjársýsla ríkisins"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-28",
+      "subject": "Greiðslukvittun",
+      "publicationDate": "2025-07-11T23:44:00.000Z",
+      "documentDate": "2025-07-11T23:44:00.000Z",
+      "sender": {
+        "id": "6AoSHJJRDHQFfLiwBZvZi2",
+        "name": "Fjársýsla ríkisins"
+      },
+      "opened": true,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-27",
+      "subject": "Vanskilabréf",
+      "publicationDate": "2025-06-02T19:42:00.000Z",
+      "documentDate": "2025-06-02T19:42:00.000Z",
+      "sender": {
+        "id": "6puIJvhGxFBzxExVHxi5sr",
+        "name": "Sýslumaðurinn á höfuðborgarsvæðinu"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-25",
+      "subject": "Rannsókn hætt - móttakandi: Jón Jónsson",
+      "publicationDate": "2025-05-28T02:44:00.000Z",
+      "documentDate": "2025-05-28T02:44:00.000Z",
+      "sender": {
+        "id": "70JYv0XoESsjKXJ0yuosRz",
+        "name": "Lögreglustjórinn á höfuðborgarsvæðinu"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-24",
+      "subject": "Greiðslustaðfesting",
+      "publicationDate": "2025-04-18T16:07:00.000Z",
+      "documentDate": "2025-04-18T16:07:00.000Z",
+      "sender": {
+        "id": "3dgsobJuiJXC1oOxhGpcUY",
+        "name": "Tryggingastofnun"
+      },
+      "opened": true,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-26",
+      "subject": "Staðfesting umsóknar um atvinnuleysisbætur",
+      "publicationDate": "2025-04-06T19:36:00.000Z",
+      "documentDate": "2025-04-06T19:36:00.000Z",
+      "sender": {
+        "id": "3dgsobJuiJXC1oOxhGpcUY",
+        "name": "Tryggingastofnun"
+      },
+      "opened": true,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-22",
+      "subject": "Innheimtubréf",
+      "publicationDate": "2025-02-02T00:07:00.000Z",
+      "documentDate": "2025-02-02T00:07:00.000Z",
+      "sender": {
+        "id": "4yJlHgCMTqpgRSj4p6LuBQ",
+        "name": "Skatturinn"
+      },
+      "opened": true,
+      "bookmarked": true,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-23",
+      "subject": "Staðfesting á móttöku skattframtals 2025",
+      "publicationDate": "2025-01-18T16:58:00.000Z",
+      "documentDate": "2025-01-18T16:58:00.000Z",
+      "sender": {
+        "id": "4yJlHgCMTqpgRSj4p6LuBQ",
+        "name": "Skatturinn"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-21",
+      "subject": "Áminning um skil tekjuáætlunar",
+      "publicationDate": "2024-12-07T15:45:00.000Z",
+      "documentDate": "2024-12-07T15:45:00.000Z",
+      "sender": {
+        "id": "3dgsobJuiJXC1oOxhGpcUY",
+        "name": "Tryggingastofnun"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-20",
+      "subject": "Uppfærð tekjuáætlun og endurreikningur húsnæðisbóta",
+      "publicationDate": "2024-11-17T01:39:00.000Z",
+      "documentDate": "2024-11-17T01:39:00.000Z",
+      "sender": {
+        "id": "53jrbgxPKpbNtordSfEZUK",
+        "name": "Húsnæðis- og mannvirkjastofnun"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-19",
+      "subject": "Uppfærð tekjuáætlun – staðfesting",
+      "publicationDate": "2024-09-26T02:45:00.000Z",
+      "documentDate": "2024-09-26T02:45:00.000Z",
+      "sender": {
+        "id": "3dgsobJuiJXC1oOxhGpcUY",
+        "name": "Tryggingastofnun"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-18",
+      "subject": "Áminning um skil skattframtals 2023",
+      "publicationDate": "2024-08-23T16:57:00.000Z",
+      "documentDate": "2024-08-23T16:57:00.000Z",
+      "sender": {
+        "id": "4yJlHgCMTqpgRSj4p6LuBQ",
+        "name": "Skatturinn"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-16",
+      "subject": "Staðgreiðsluskýrsla – sumarstarf 2024",
+      "publicationDate": "2024-07-06T00:34:00.000Z",
+      "documentDate": "2024-07-06T00:34:00.000Z",
+      "sender": {
+        "id": "4yJlHgCMTqpgRSj4p6LuBQ",
+        "name": "Skatturinn"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-17",
+      "subject": "Greiðslustaðfesting",
+      "publicationDate": "2024-06-11T22:40:00.000Z",
+      "documentDate": "2024-06-11T22:40:00.000Z",
+      "sender": {
+        "id": "3dgsobJuiJXC1oOxhGpcUY",
+        "name": "Tryggingastofnun"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-15",
+      "subject": "Álagning 2023 – tilkynning",
+      "publicationDate": "2024-03-29T03:45:00.000Z",
+      "documentDate": "2024-03-29T03:45:00.000Z",
+      "sender": {
+        "id": "4yJlHgCMTqpgRSj4p6LuBQ",
+        "name": "Skatturinn"
+      },
+      "opened": true,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-14",
+      "subject": "Tekjuáætlun – staðfesting móttöku",
+      "publicationDate": "2024-02-29T20:41:00.000Z",
+      "documentDate": "2024-02-29T20:41:00.000Z",
+      "sender": {
+        "id": "3dgsobJuiJXC1oOxhGpcUY",
+        "name": "Tryggingastofnun"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-13",
+      "subject": "Endurútreikningur bóta – tilkynning",
+      "publicationDate": "2024-01-24T21:17:00.000Z",
+      "documentDate": "2024-01-24T21:17:00.000Z",
+      "sender": {
+        "id": "3dgsobJuiJXC1oOxhGpcUY",
+        "name": "Tryggingastofnun"
+      },
+      "opened": true,
+      "bookmarked": true,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-10",
+      "subject": "Sektargerð þín í máli 007-2023-005517 er tilbúin",
+      "publicationDate": "2023-12-31T17:25:00.000Z",
+      "documentDate": "2023-12-31T17:25:00.000Z",
+      "sender": {
+        "id": "70JYv0XoESsjKXJ0yuosRz",
+        "name": "Lögreglustjórinn á höfuðborgarsvæðinu"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-11",
+      "subject": "Greiðsluseðill - Skatturinn",
+      "publicationDate": "2023-12-27T02:09:00.000Z",
+      "documentDate": "2023-12-27T02:09:00.000Z",
+      "sender": {
+        "id": "mock-rikissjodur",
+        "name": "Ríkissjóður Íslands"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-12",
+      "subject": "Atvinnuleysisbætur – greiðsluyfirlit",
+      "publicationDate": "2023-12-27T00:46:00.000Z",
+      "documentDate": "2023-12-27T00:46:00.000Z",
+      "sender": {
+        "id": "3dgsobJuiJXC1oOxhGpcUY",
+        "name": "Tryggingastofnun"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-9",
+      "subject": "Greiðslustaðfesting",
+      "publicationDate": "2023-09-19T00:10:00.000Z",
+      "documentDate": "2023-09-19T00:10:00.000Z",
+      "sender": {
+        "id": "3dgsobJuiJXC1oOxhGpcUY",
+        "name": "Tryggingastofnun"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-7",
+      "subject": "Greiðslukvittun - Greiðslukerfi Ísland.is",
+      "publicationDate": "2023-09-04T01:41:00.000Z",
+      "documentDate": "2023-09-04T01:41:00.000Z",
+      "sender": {
+        "id": "mock-greidslugatt",
+        "name": "Greiðslugátt"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-8",
+      "subject": "Greiðsluyfirlit námsláns",
+      "publicationDate": "2023-08-19T21:06:00.000Z",
+      "documentDate": "2023-08-19T21:06:00.000Z",
+      "sender": {
+        "id": "mock-menntasjodur",
+        "name": "Menntasjóður námsmanna"
+      },
+      "opened": true,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-6",
+      "subject": "Orlofs- og desemberuppbætur - uppfærð greiðsla",
+      "publicationDate": "2023-06-24T14:46:00.000Z",
+      "documentDate": "2023-06-24T14:46:00.000Z",
+      "sender": {
+        "id": "3dgsobJuiJXC1oOxhGpcUY",
+        "name": "Tryggingastofnun"
+      },
+      "opened": true,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-5",
+      "subject": "Endurgreiðsla staðgreiðslu – uppgjör 2022",
+      "publicationDate": "2023-06-07T18:54:00.000Z",
+      "documentDate": "2023-06-07T18:54:00.000Z",
+      "sender": {
+        "id": "4yJlHgCMTqpgRSj4p6LuBQ",
+        "name": "Skatturinn"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-4",
+      "subject": "Uppgjör - Inneign útborguð",
+      "publicationDate": "2023-05-27T23:58:00.000Z",
+      "documentDate": "2023-05-27T23:58:00.000Z",
+      "sender": {
+        "id": "3dgsobJuiJXC1oOxhGpcUY",
+        "name": "Tryggingastofnun"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-3",
+      "subject": "Sektargerð",
+      "publicationDate": "2023-04-19T19:35:00.000Z",
+      "documentDate": "2023-04-19T19:35:00.000Z",
+      "sender": {
+        "id": "1R7eiCnK8hVcByNfF3Zhqm",
+        "name": "Lögreglustjórinn á Norðurlandi vestra"
+      },
+      "opened": true,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-2",
+      "subject": "Reikningur - Sýslumaðurinn á höfuðborgarsvæðinu",
+      "publicationDate": "2023-03-23T01:45:00.000Z",
+      "documentDate": "2023-03-23T01:45:00.000Z",
+      "sender": {
+        "id": "6puIJvhGxFBzxExVHxi5sr",
+        "name": "Sýslumaðurinn á höfuðborgarsvæðinu"
+      },
+      "opened": false,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-1",
+      "subject": "Kvittun fyrir skilum á tekjuáætlun frá Mínu Jón",
+      "publicationDate": "2023-01-25T18:49:00.000Z",
+      "documentDate": "2023-01-25T18:49:00.000Z",
+      "sender": {
+        "id": "3dgsobJuiJXC1oOxhGpcUY",
+        "name": "Tryggingastofnun"
+      },
+      "opened": true,
+      "bookmarked": false,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    },
+    {
+      "id": "mock-inbox-6903-0",
+      "subject": "Þú mátt kjósa",
+      "publicationDate": "2023-01-17T00:20:00.000Z",
+      "documentDate": "2023-01-17T00:20:00.000Z",
+      "sender": {
+        "id": "i5go5A4ikV8muPfvr9o2v",
+        "name": "Þjóðskrá Íslands"
+      },
+      "opened": false,
+      "bookmarked": true,
+      "isUrgent": false,
+      "categoryId": "1",
+      "replyable": false
+    }
+  ],
+  "inboxDocumentUpdates": [],
+  "_help": {
+    "profile": "Change any field above (name, email, phone, address, facePicUrl, …).",
+    "inboxDocuments": "Optional: replace the whole array to redefine every letter.",
+    "inboxDocumentUpdates": "Optional: patch single letters, e.g. [{ \"id\": \"mock-inbox-6640-0\", \"subject\": \"Nýtt efni\", \"opened\": false }]"
+  }
+}
